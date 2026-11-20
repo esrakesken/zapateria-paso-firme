@@ -3,6 +3,7 @@
 Flujos de **n8n** que automatizan todo lo que pasa alrededor de la app de la tienda: avisos a clientes, vencimientos, cierres de caja, informes y entrada de datos.
 
 **Pareja:** Esra Kesken y Beste Ozaydin · **Enunciado del profesor:** [docs/enunciado.md](docs/enunciado.md)
+> Repositorio original, con issues y pull requests: [T3-P4-Auto-n8n/zapateria-paso-firme](https://github.com/T3-P4-Auto-n8n/zapateria-paso-firme)
 
 ## Qué problema resuelve
 
